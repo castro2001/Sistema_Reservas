@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jordan Castro\\3D Objects\\c#\\Sistema_Reserva_Monitoreo\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jordan Castro\\3D Objects\\c#\\Sistema_Reserva_Monitoreo\\Domain\\Domain.csproj": {
+    "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jordan Castro\\3D Objects\\c#\\Sistema_Reserva_Monitoreo\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Jordan Castro\\3D Objects\\c#\\Sistema_Reserva_Monitoreo\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Jordan Castro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jordan Castro\\3D Objects\\c#\\Sistema_Reserva_Monitoreo\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

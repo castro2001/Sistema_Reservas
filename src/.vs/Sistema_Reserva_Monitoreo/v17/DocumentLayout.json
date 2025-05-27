@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA739A2-E076-46FD-943F-280432FEAB1E}|Infrastructure\\SqlAccess.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\infrastructure\\acceso\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA739A2-E076-46FD-943F-280432FEAB1E}|Infrastructure\\SqlAccess.csproj|solutionrelative:infrastructure\\acceso\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA739A2-E076-46FD-943F-280432FEAB1E}|Infrastructure\\SqlAccess.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\infrastructure\\sqlaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DEA739A2-E076-46FD-943F-280432FEAB1E}|Infrastructure\\SqlAccess.csproj|solutionrelative:infrastructure\\sqlaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA739A2-E076-46FD-943F-280432FEAB1E}|Infrastructure\\SqlAccess.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\infrastructure\\db\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA739A2-E076-46FD-943F-280432FEAB1E}|Infrastructure\\SqlAccess.csproj|solutionrelative:infrastructure\\db\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\sistema_reserva_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|solutionrelative:sistema_reserva_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\sistema_reserva_v1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|solutionrelative:sistema_reserva_v1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\sistema_reserva_v1\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|solutionrelative:sistema_reserva_v1\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\sistema_reserva_v1\\models\\usuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|solutionrelative:sistema_reserva_v1\\models\\usuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\sistema_reserva_v1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|solutionrelative:sistema_reserva_v1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\sistema_reserva_v1\\views\\acceso\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|solutionrelative:sistema_reserva_v1\\views\\acceso\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\sistema_reserva_v1\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|solutionrelative:sistema_reserva_v1\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|c:\\users\\jordan castro\\documents\\github\\sistema_reservas\\src\\sistema_reserva_v1\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E684F3B-9428-4F2F-93CE-0933EFB01409}|Sistema_Reserva_v1\\WebApp.csproj|solutionrelative:sistema_reserva_v1\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioDao.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Infrastructure\\Acceso\\UsuarioDao.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Acceso\\UsuarioDao.cs",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Infrastructure\\Acceso\\UsuarioDao.cs",
+              "RelativeToolTip": "Infrastructure\\Acceso\\UsuarioDao.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:55:57.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlAccess",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Infrastructure\\SqlAccess.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\SqlAccess.csproj",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Infrastructure\\SqlAccess.csproj",
+              "RelativeToolTip": "Infrastructure\\SqlAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T01:51:09.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApp",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\WebApp.csproj",
+              "RelativeDocumentMoniker": "Sistema_Reserva_v1\\WebApp.csproj",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\WebApp.csproj",
+              "RelativeToolTip": "Sistema_Reserva_v1\\WebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T01:38:58.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\appsettings.json",
+              "RelativeDocumentMoniker": "Sistema_Reserva_v1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\appsettings.json",
+              "RelativeToolTip": "Sistema_Reserva_v1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T01:35:45.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Infrastructure\\DB\\Database.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DB\\Database.cs",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Infrastructure\\DB\\Database.cs",
+              "RelativeToolTip": "Infrastructure\\DB\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:21:46.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Models\\UsuarioVM.cs",
+              "RelativeDocumentMoniker": "Sistema_Reserva_v1\\Models\\UsuarioVM.cs",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Models\\UsuarioVM.cs",
+              "RelativeToolTip": "Sistema_Reserva_v1\\Models\\UsuarioVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:17:29.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Sistema_Reserva_v1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Sistema_Reserva_v1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:16:59.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema_Reserva_v1\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Models\\Usuario.cs",
+              "RelativeToolTip": "Sistema_Reserva_v1\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:12:52.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Views\\Acceso\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Sistema_Reserva_v1\\Views\\Acceso\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Views\\Acceso\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Sistema_Reserva_v1\\Views\\Acceso\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T00:56:50.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "Sistema_Reserva_v1\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "Sistema_Reserva_v1\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:48:18.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "Sistema_Reserva_v1\\Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Jordan Castro\\Documents\\GitHub\\Sistema_Reservas\\src\\Sistema_Reserva_v1\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "Sistema_Reserva_v1\\Views\\Acceso\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T00:40:34.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
